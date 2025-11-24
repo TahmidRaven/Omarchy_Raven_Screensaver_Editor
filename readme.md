@@ -1,7 +1,9 @@
 
 # Omarchy Raven Screensaver Editor
 
-Omarchy Raven Screensaver Editor is a customizable text editor for the Omarchy Linux screensaver. It allows you to modify the default screensaver text and display your own custom messages, enhancing the default Omarchy screensaver experience.
+> **Omarchy Raven Screensaver Editor**
+> Customize the default Omarchy Linux screensaver text and display your own messages easily.
+
 ---
 
 ## Features
@@ -25,8 +27,18 @@ Run the self-installing script:
 chmod +x omarchy-raven-screensaver-install.sh
 ./omarchy-raven-screensaver-install.sh
 ```
+## Usage
 
-The script will:
+Launch via terminal:
+
+```bash
+omarchy-raven-screensaver
+```
+
+Or via desktop menu: **Omarchy Raven Screensaver**
+
+
+# The script will:
 
 1. Create necessary directories:
    - `~/.local/bin`
@@ -39,16 +51,6 @@ The script will:
 6. Create an uninstaller
 
 ---
-
-## Usage
-
-Launch via terminal:
-
-```bash
-omarchy-raven-screensaver
-```
-
-Or via desktop menu: **Omarchy Raven Screensaver**
 
 ### Options
 
