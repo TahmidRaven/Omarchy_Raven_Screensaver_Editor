@@ -27,8 +27,14 @@ Launch via terminal:
 ```bash
 omarchy-raven-screensaver
 ```
-
 Or via desktop menu: **Omarchy Raven Screensaver**
+
+---
+
+## Screenshots
+
+<img width="1920" height="1080" alt="screenshot-2025-11-24_16-06-55" src="https://github.com/user-attachments/assets/f1f7135c-193a-4a3a-bfd6-45220bf19ca0" />
+<img width="1920" height="1080" alt="screenshot-2025-11-24_16-06-02" src="https://github.com/user-attachments/assets/35b81772-18bd-450f-aa15-7103558602af" />
 
 ---
 
