@@ -6,6 +6,32 @@
 
 ---
 
+## Installation
+
+Run the self-installing script:
+
+```bash
+chmod +x omarchy-raven-screensaver-install.sh
+./omarchy-raven-screensaver-install.sh
+```
+Or
+```bash
+sh omarchy-raven-screensaver-install.sh
+```
+---
+
+## Usage
+
+Launch via terminal:
+
+```bash
+omarchy-raven-screensaver
+```
+
+Or via desktop menu: **Omarchy Raven Screensaver**
+
+---
+
 ## Features
 
 - Generates ASCII art screensavers using `figlet`
@@ -18,25 +44,6 @@
 - Uninstall option preserving fonts and screensaver files
 
 ---
-
-## Installation
-
-Run the self-installing script:
-
-```bash
-chmod +x omarchy-raven-screensaver-install.sh
-./omarchy-raven-screensaver-install.sh
-```
-## Usage
-
-Launch via terminal:
-
-```bash
-omarchy-raven-screensaver
-```
-
-Or via desktop menu: **Omarchy Raven Screensaver**
-
 
 # The script will:
 
@@ -105,4 +112,3 @@ This removes the application and desktop entry. Screensaver files and fonts are 
 ## License
 
 This project is provided **as-is**. Use responsibly.
-
