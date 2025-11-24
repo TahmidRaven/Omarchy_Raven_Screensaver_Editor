@@ -1,8 +1,7 @@
 
-# Omarchy Raven Screensaver
+# Omarchy Raven Screensaver Editor
 
-🎨 **ASCII Art Screensaver Generator** for Linux with dark theme support, multi-line text, and custom fonts.
-
+Omarchy Raven Screensaver Editor is a customizable text editor for the Omarchy Linux screensaver. It allows you to modify the default screensaver text and display your own custom messages, enhancing the default Omarchy screensaver experience.
 ---
 
 ## Features
