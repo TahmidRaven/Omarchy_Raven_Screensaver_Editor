@@ -37,6 +37,13 @@ Or via desktop menu: **Omarchy Raven Screensaver**
 <img width="1920" height="1080" alt="screenshot-2025-11-24_16-06-02" src="https://github.com/user-attachments/assets/35b81772-18bd-450f-aa15-7103558602af" />
 
 ---
+## USAGE 
+<img width="1920" height="1080" alt="screenshot-2025-12-04_17-32-52" src="https://github.com/user-attachments/assets/45e5d148-bb26-4117-8856-13259b8cba73" />
+<img width="1920" height="1080" alt="screenshot-2025-12-04_17-35-19" src="https://github.com/user-attachments/assets/8116e3c0-828b-4e9f-9beb-ed17c6dd1f4b" />
+<img width="1920" height="1080" alt="screenshot-2025-12-04_17-35-19" src="https://github.com/user-attachments/assets/72384bf3-fc18-412d-96c9-a8ecaf2db885" />
+<img width="1920" height="1080" alt="screenshot-2025-12-04_17-36-19" src="https://github.com/user-attachments/assets/846b2fd0-2393-4651-9454-0162d8d535bc" />
+<img width="1920" height="1080" alt="screenshot-2025-12-04_17-36-02" src="https://github.com/user-attachments/assets/6c6d5086-3e39-49e4-a40d-e342bec86757" />
+<img width="1920" height="1080" alt="screenshot-2025-12-04_17-37-03" src="https://github.com/user-attachments/assets/722b53c0-55b2-4189-86c8-d6bec40fde2c" />
 
 ## Features
 
